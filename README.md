@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm currently unemployed because of personal issues.
+I'm now learning about coding in HTML and CSS.
+I'm a 45-year-old man from Chile, living in La Serena.
+My e-mail address is fmzapata@gmail.com.
+By the way, my name is Felipe Miranda.
+That is all for now.
+See you!!!
 
 <!--
 **Famz1977/Famz1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
